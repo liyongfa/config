@@ -7,6 +7,6 @@ eureka:
   instance:
     prefer-ip-address: true
 student:
-  name: liyongfa
+  name: lgsajgopajopgajongfa
   age: 23
 
